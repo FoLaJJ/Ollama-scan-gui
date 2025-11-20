@@ -1,0 +1,10 @@
+export:
+  default_format: csv
+  default_path: ./result
+gui:
+  window_height: 800
+  window_width: 1200
+scan:
+  default_port: 11434
+  default_threads: 10
+  timeout: 5
