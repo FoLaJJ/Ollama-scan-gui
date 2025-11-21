@@ -29,9 +29,10 @@ python gui.py
 pyinstaller --onefile --windowed gui.py
 ```
 
+发现这个打包太大了，14MB，应该换种打包或者upx压缩一下
 
 
-默认生成会直接有一个yaml文件和一个result文件夹坨屎而出。
+默认运行会直接有一个yaml文件和一个result文件夹坨屎而出。
 
 导出结果默认就是result了。
 
